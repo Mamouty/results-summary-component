@@ -73,6 +73,9 @@ h1, h2 {
     padding: 30px;
     display: grid;
     grid-row-gap: 30px;
+    /*display: flex;*/
+    /*flex-direction: column;*/
+    /*justify-content: space-evenly;*/
 }
 
 .summary-stats {
